@@ -22,6 +22,11 @@
   }
 }
 
+.container {
+  margin: 40px auto;
+  width: 300px;
+}
+
 h1 {
   color: #222831;
   font-family: 'Roboto', sans-serif;
